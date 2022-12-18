@@ -37,7 +37,7 @@ A simple project to use the database of cities in csv format
 - Fields: `population`
 - Response: `200`
 
-### Delete Post
+### Delete City
 
 - Path : `/cities/{id}`
 - Method: `DELETE`
