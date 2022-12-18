@@ -14,6 +14,8 @@ A simple project to use the database of cities in csv format
 
 - Region: `/cities?region=Ростовская область`
 - District: `/cities?district=Южный`
+- Population Range: `/cities?population=1000000-5000000`
+- Foundation Range: `/cities?foundation=1800-2022`
 
 ### Create City
 
